@@ -10,6 +10,7 @@ Download using:
 ```
 devtools::install_github("borstell/signglossR")
 ```
+You will also need to ensure [`ffmpeg`](https://ffmpeg.org) [`ImageMagick`](https://imagemagick.org) are installed on your machine first.
 
 # Paper
 The `signglossR` package is described in the LREC workshop proceedings paper found here: [https://www.sign-lang.uni-hamburg.de/lrec/pub/22006.html](https://www.sign-lang.uni-hamburg.de/lrec/pub/22006.html).
